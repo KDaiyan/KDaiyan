@@ -9,7 +9,7 @@
 <h2 align="left">💼 "Experience"</h2>
 
 <p>
-  Failed to succumb to the tragedy known as existence for two decades (the same cannot be said for the integrated graphics cards).
+  I really hope no one gets this far.
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
