@@ -6,12 +6,6 @@
   <li>Comprehend the C++ standard library.</li>
 </ul>
 
-<h2 align="left">💼 "Experience"</h2>
-
-<p>
-  I really hope no one gets this far.
-</p>
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
