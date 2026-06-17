@@ -1,3 +1,9 @@
+<!-- ╔══════════ Header ══════════╗ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff,100:6a00ff&text=Daiyan%20Kazi&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Embedded%20%7C%20Machine%20Learning%20%7C%20Firmware&descSize=18&descAlign=50&animation=twinkling" />
+
+<!-- ╔══════════ Aspirations ══════════╗ -->
 <h2 align="left">✨ Aspirations</h2>
 
 <ul>
