@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiyan-kazi)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiyankazi08@gmail.com)
 [![GitHub](https://img.shields.io/badge/Repositories-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDaiyan?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=KDaiyan&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/KDaiyan)
+[![Profile Views](https://komarev.com/ghpvc/?username=KDaiyan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/KDaiyan)
 
 </div>
 
