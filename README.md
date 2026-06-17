@@ -3,6 +3,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff00ff,100:6a00ff&text=Daiyan%20Kazi&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Embedded%20%7C%20Machine%20Learning%20%7C%20Firmware&descSize=18&descAlign=50&animation=twinkling" />
 
+<!-- ╔══════════ SOCIAL BADGES ══════════╗ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiyan-kazi)
+[![Gmail](https://img.shields.io/badge/Hire%20%2F%20Collab-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiyankazi08@gmail.com)
+[![GitHub](https://img.shields.io/badge/Repositories-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDaiyan?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=supersaiyane&style=for-the-badge&color=F7B731&label=PROFILE+VIEWS)](https://github.com/KDaiyan)
+
+</div>
+
 <!-- ╔══════════ Aspirations ══════════╗ -->
 <h2 align="left">✨ Aspirations</h2>
 
