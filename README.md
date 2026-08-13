@@ -37,6 +37,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdaiyan&show_icons=true&theme=dark&locale=en&layout=compact" alt="kdaiyan" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kdaiyan&show_icons=true&theme=dark&locale=en&layout=compact" alt="kdaiyan" />
 </p>
 
