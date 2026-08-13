@@ -12,6 +12,13 @@
 </div>
 
 <!-- ╔══════════ Aspirations ══════════╗ -->
+<h2 align="left">🔍 About Me</h2>
+
+<ul>
+  I am a Computer Engineering student with a passion for embedded software and systems programming. I enjoy working close to the hardware and writing code where performance, reliability, safety, and resource constraints matter. My experience is primarily with modern C++ and Python, developing software on Linux and RTOS-based environments.
+</ul>
+
+<!-- ╔══════════ Aspirations ══════════╗ -->
 <h2 align="left">✨ Aspirations</h2>
 
 <ul>
@@ -20,23 +27,8 @@
   <li>Comprehend the C++ standard library.</li>
 </ul>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
 
-<p>
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kdaiyan&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="kdaiyan" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kdaiyan&show_icons=true&theme=aura&locale=en&layout=compact" alt="GitHub Top Languages" />
 </p>
 
